@@ -41,7 +41,7 @@ namespace PobreTITO
                 id_persona = lector.GetInt32(0);
                 if(contraseña == lector.GetString(2))
                 {
-                    MessageBox.Show("Sesion iniciada con exito");
+                    // MessageBox.Show("Sesion iniciada con exito");
                     conexion.Close(); 
                     return true;
                 }

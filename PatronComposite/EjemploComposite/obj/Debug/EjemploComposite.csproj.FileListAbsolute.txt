@@ -1,0 +1,8 @@
+C:\Users\Matias Morero\Desktop\EjemploComposite\obj\Debug\EjemploComposite.csproj.AssemblyReference.cache
+C:\Users\Matias Morero\Desktop\EjemploComposite\obj\Debug\EjemploComposite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias Morero\Desktop\EjemploComposite\obj\Debug\EjemploComposite.csproj.CoreCompileInputs.cache
+C:\Users\Matias Morero\Desktop\EjemploComposite\bin\Debug\EjemploComposite.exe.config
+C:\Users\Matias Morero\Desktop\EjemploComposite\bin\Debug\EjemploComposite.exe
+C:\Users\Matias Morero\Desktop\EjemploComposite\bin\Debug\EjemploComposite.pdb
+C:\Users\Matias Morero\Desktop\EjemploComposite\obj\Debug\EjemploComposite.exe
+C:\Users\Matias Morero\Desktop\EjemploComposite\obj\Debug\EjemploComposite.pdb
