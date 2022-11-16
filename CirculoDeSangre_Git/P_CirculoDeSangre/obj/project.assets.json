@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matias Morero\\Desktop\\P_CirculoDeSangre\\P_CirculoDeSangre.csproj",
+      "projectUniqueName": "C:\\Users\\Matias Morero\\Desktop\\TPsDS\\CirculoDeSangre_Git\\P_CirculoDeSangre\\P_CirculoDeSangre.csproj",
       "projectName": "P_CirculoDeSangre",
-      "projectPath": "C:\\Users\\Matias Morero\\Desktop\\P_CirculoDeSangre\\P_CirculoDeSangre.csproj",
+      "projectPath": "C:\\Users\\Matias Morero\\Desktop\\TPsDS\\CirculoDeSangre_Git\\P_CirculoDeSangre\\P_CirculoDeSangre.csproj",
       "packagesPath": "C:\\Users\\Matias Morero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matias Morero\\Desktop\\P_CirculoDeSangre\\obj\\",
+      "outputPath": "C:\\Users\\Matias Morero\\Desktop\\TPsDS\\CirculoDeSangre_Git\\P_CirculoDeSangre\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matias Morero\\AppData\\Roaming\\NuGet\\NuGet.Config",
